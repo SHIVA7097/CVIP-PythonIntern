@@ -10,3 +10,4 @@ A simple GUI application built using Python and Tkinter that generates random pa
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the application: `python main.py`
+4. generate the random passwords.
